@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Vipin Ragashetti"
   avatar           : "/images/ProfilePhoto.jpg"
-  bio              : Lean Developer | Aspiring Data Scientist
+  bio              : #
   location         : "Dublin, Ireland"
   email            : "vipin.ragashetti@gmail.com"
   links:
