@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "About Vipin Ragashetti"
+header:
+  image: "/images/Background.jpg"
 permalink: /about/
 author: "Vipin Ragashetti"
 author_profile: true
