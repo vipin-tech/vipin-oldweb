@@ -4,8 +4,6 @@ permalink: /about/
 title: About Vipin Ragashetti
 author: Vipin Ragashetti
 author_profile: true
-header-includes:
-   - \setlength\parindent{24pt}
 description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters at University College Dublin.
 og_image: "/assets/images/profile.jpg"
 ---
