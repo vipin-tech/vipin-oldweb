@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Hello.
 header:
   image: "/images/Background.jpg"
 permalink: /about/
@@ -9,13 +10,12 @@ description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters 
 ---
 
 
-## _About_ 
+## _About_
 Hi, I am Vipin. I am postgraduate Masters student at University College Dublin.
 
 * City Dweller who loves to travel, take part in outdoor activities, explore and learn new technologies and would love to meet new people.
 * Things that excites me most are solving challenging problems, developing new relationships, and help in overall growth of businesses.
 
-<br />
 <br />
 ## _Expertise_
 
