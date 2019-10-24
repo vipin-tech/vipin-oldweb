@@ -1,11 +1,10 @@
 ---
 layout: single
+title: "About Vipin Ragashetti"
 permalink: /about/
-title: About Vipin Ragashetti
-author: Vipin Ragashetti
+author: "Vipin Ragashetti"
 author_profile: true
-description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters at University College Dublin.
-og_image: "/assets/images/profile.jpg"
+description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters at University College Dublin."
 ---
 
 # Myself
