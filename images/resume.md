@@ -1,5 +1,5 @@
 ---
 title: Resume
 header:
-  PDF: "/pages/resume.pdf"
+  PDF: "/_pages/resume.pdf"
 ---
