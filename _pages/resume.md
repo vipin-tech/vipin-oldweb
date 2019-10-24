@@ -1,5 +1,5 @@
 ---
 title: Resume
 header:
-  image: "/_pages/resume.pdf"
+  image: "/images/resume.pdf"
 ---
