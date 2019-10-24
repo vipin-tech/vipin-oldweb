@@ -10,14 +10,11 @@ description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters 
 ---
 
 
-# Myself
 Hi, I am Vipin. I am postgraduate Masters student at University College Dublin.
 City Dweller who loves to travel, take part in outdoor activities, explore and learn new technologies and would love to meet new people.
 Things that excites me most are solving challenging problems, developing new relationships, and help in overall growth of businesses.
 
 
-
-# Expertise
 My latest professional assignment was at Hewlett Packard Enterprise where we designed and integrated
 Recovery Manager Central (RMC) with 3PAR, StoreVirtual, Nimble and Storeonce.
 I have 3.7 years of experience in development and automation.
