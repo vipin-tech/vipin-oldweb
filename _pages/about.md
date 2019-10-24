@@ -9,7 +9,6 @@ author_profile: true
 description: "I am Vipin, a tech guy, ex-HPE'ian and currently purusing Masters at University College Dublin."
 ---
 
-
 ## _About_
 Hi, I am Vipin. I am postgraduate Masters student at University College Dublin.
 
