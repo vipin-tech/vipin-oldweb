@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Resume"
-    url: /images/resume.pdf
+    url: https://drive.google.com/open?id=1AlIeR4k4CKu-B-vQH3xib0Ycv5Sn20jC
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
