@@ -13,7 +13,7 @@ Collections is a built-in Python module that implements specialized container da
 
 Some of the useful data structures present in this module are:
 
-1. namedtuple()
+* namedtuple()
 
 The data stored in a plain tuple can only be accessed through indexes as can be seen in the example below:
 
@@ -46,7 +46,7 @@ We construct the namedtuple by first passing the object type name (fruit) and th
 
 Namedtuples are also a memory-efficient option when defining an immutable class in Python.
 
-2. Counter
+* Counter
 
 Counter is a dict subclass which helps to count hashable objects. The elements are stored as dictionary keys while the object counts are stored as the value. Let’s work through a few examples with Counter.
 
@@ -78,7 +78,7 @@ Counter is a dict subclass which helps to count hashable objects. The elements a
 
 *Counter objects support three methods beyond those available for all dictionaries:*
 
-* *elements*
+  + elements
 Returns a count of each element and If an element’s count is less than one, it is ignored.
 
 ```python
@@ -87,7 +87,7 @@ Returns a count of each element and If an element’s count is less than one, it
     ['a', 'a', 'a', 'b', 'b', 'c']
 ```
 
-* *most_common([n])*
+  + most_common([n])
 Returns a list of the most common elements with their counts. The number of elements has to be specified as n. If none is specified it returns the count of all the elements.
 
 ```python
@@ -110,9 +110,7 @@ Returns a list of the most common elements with their counts. The number of elem
       c += Counter()                  # remove zero and negative counts
 ```
 
-3. defaultdict
-
-Dictionaries are an efficient way to store data for later retrieval having an unordered set of key: value pairs. Keys must be unique and immutable objects.
+* defaultdict - Dictionaries are an efficient way to store data for later retrieval having an unordered set of key: value pairs. Keys must be unique and immutable objects.
 
 ```python
     fruits = 'apple':300, 'guava': 200
@@ -137,8 +135,8 @@ Things are simple if the values are ints or strings. However, if the values are 
 
 The defaultdict in contrast will simply create any items that you try to access (provided of course they do not exist yet).The defaultdict is also a dictionary-like object and provides all methods provided by a dictionary. However, the point of difference is that it takes the first argument (default_factory) as a default data type for the dictionary.
 
-4. OrderedDict
-An OrderedDict is a dictionary subclass that remembers the order in which that keys were first inserted. When iterating over an ordered dictionary, the items are returned in the order their keys were first added. Since an ordered dictionary remembers its insertion order, it can be used in conjunction with sorting to make a sorted dictionary:
+
+* An OrderedDict is a dictionary subclass that remembers the order in which that keys were first inserted. When iterating over an ordered dictionary, the items are returned in the order their keys were first added. Since an ordered dictionary remembers its insertion order, it can be used in conjunction with sorting to make a sorted dictionary:
 
 + regular dictionary
 
