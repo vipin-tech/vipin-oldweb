@@ -3,7 +3,7 @@ title: Unexplored and less famous module in python
 date: 2019-10-27
 tags: [python, python for data science, python data structures]
 header:
-  image: "/images/python.png"
+  image: "/images/python.gif"
 permalink: /blogs/
 author: "Vipin Ragashetti"
 excerpt: "Python, Data Structures, Data Science"
