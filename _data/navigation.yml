@@ -1,10 +1,15 @@
 # main links
 main:
+
+  - title: "Blogs"
+    url: /blogs/
+    
+  - title: "Resume"
+    url: https://drive.google.com/file/d/16qGY-7QauymdDnlRWPLT_Blb6L-4vRoe/view
+
   - title: "About Me"
     url: /about/
 
-  - title: "Resume"
-    url: https://drive.google.com/file/d/16qGY-7QauymdDnlRWPLT_Blb6L-4vRoe/view
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
